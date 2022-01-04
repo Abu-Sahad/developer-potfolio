@@ -44,4 +44,11 @@ h1{
         background-image: url(image/dream-bg.png);
         background-repeat: no-repeat;
         background-position:right;
-        }
+    }
+    .experience-item{
+        box-shadow: 10px 10px 40px gray;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 10px;
+        width: 40%;
+    }
