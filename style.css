@@ -14,6 +14,9 @@ background-repeat: no-repeat;
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .aa{
     color: orange;
 }
@@ -51,4 +54,26 @@ h1{
         margin-right: 5%;
         padding-left: 10px;
         width: 40%;
+        
     }
+    .ca{
+        background-image: url(image/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+    #experience-item1{
+        border-left: 7px solid;
+        border-image:linear-gradient(red,tomato);
+        border-image-slice: 1;
+    }
+    #experience-item2{
+        border-left: 7px solid;
+        border-image:linear-gradient(blue,cyan);
+        border-image-slice: 1;
+    }
+    #experience{
+        margin-left:5% ;
+    }
+.footer1{
+    text-align: center;
+}
